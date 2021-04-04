@@ -1,0 +1,3 @@
+NetBIOSDomainName,SamAccountName,AccountType,InstanceName,Database,Role
+contoso,Chat01$,User,MSSQLSERVER,Openfire,db_owner
+contoso,Enterprise Server Admins,Group,MSSQLSERVER,,sysadmin

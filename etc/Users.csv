@@ -1,0 +1,2 @@
+SamAccountName,InitialPassword,FirstName,Initial,LastName,Description,IsServiceAccount,PseudoCanonicalName
+openfire,ChangeMe123!@#,Openfire,NMI,Service,Unprivilaged LDAP access service account for Openfire,True,Enterprise Services/Service Accounts/Openfire
